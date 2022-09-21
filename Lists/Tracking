@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 73,116
-# Updated: 9/20/2022  22:43 (10:43 PM CST)
+# Domains: 73,141
+# Updated: 9/21/2022  11:37 (11:37 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -16426,6 +16426,7 @@ customerevents.netflix.com
 customer-feedbacks.web.roku.com
 customer.guru
 customerinsight.co.kr
+customer.io
 customeriomail.com
 customerlabs.co
 customerlabs.com
@@ -20323,6 +20324,7 @@ go.accountingtax.com
 go.accrete.ai
 go.accruerealestate.com.au
 go.accufund.com
+go.acculevel.com
 go.accumen.com
 go.accumetrix.com
 go.accushield.com
@@ -20331,6 +20333,7 @@ go.acensium.com
 go.acentek.net
 go.ac-environnement.com
 go.aceslax.com
+go.aceyus.com
 go.acfcs.org
 go.achieveatlanta.org
 go.achieveit.com
@@ -22937,6 +22940,7 @@ go.defmethod.com
 go.defydisaster.org
 go.deguchi-block.jp
 go.degura.de
+go.degy.com
 go.dekefoundation.org
 go.delano.lu
 go.delaypay.com.au
@@ -23607,6 +23611,7 @@ go.espritcam.com
 go.espsg.com.au
 go.espyouandme.org
 go.espyservices.com
+go.esri.ch
 go.esri.com
 go.esri.de
 go.esri.in
@@ -24165,6 +24170,8 @@ go.friends.edu
 go.frieslandcampina-foodservice.com
 go.frisellalandscapegroup.com
 go.frisellanursery.com
+go.frogcapital.com
+go.frog.co
 go.from.digital
 go.frommbeauty.com
 go.frontier-home.co.jp
@@ -24376,6 +24383,7 @@ goget-daasity.com
 go-getdaasitymail.com
 go.getdeco.com
 go.getdentalvault.com
+go.getflowpath.com
 go.getfoodgenius.com
 go.getg5.com
 go.getloop.ca
@@ -25496,6 +25504,7 @@ go.intercolor.co.jp
 go.interconti.co.jp
 go.interdigital.com
 go.interep.com.br
+go.interfaithamerica.org
 go.intergraph.com
 go.interlacehealth.com
 go.interlink.ne.jp
@@ -26723,6 +26732,7 @@ go.marusho-eco.jp
 go.maru-soleil.jp
 go.marutake-foods.com
 go.maruyoshi.ne.jp
+go.marwoodgroup.com
 go.maschinenraum.io
 go.masello.com
 go.masergy.com
@@ -28167,6 +28177,7 @@ go.pavis.com
 gopa.web-est.com
 go.pawpconference.com
 go.pawsup.com
+go.paxis.org
 go.paxxus.com
 go.payanywhere.com
 go.paycargo.com
@@ -28284,6 +28295,7 @@ go.persistent.com
 go.personalis.com
 go.perspecsys.com
 go.perstorpgroup.com
+go.petdx.com
 go.peterssupply.com
 go.petitpierre.ch
 go.petrolinkusa.com
@@ -30463,6 +30475,7 @@ go.taplocalnow.com
 go.tapp-co.jp
 go.tarekbuyshouses.com
 go.targetdatacorp.com
+go.targetrecruit.com
 go.tas.business
 go.tasconline.com
 go.tas-japan.com
@@ -30737,6 +30750,7 @@ go.themissionlist.com
 go.themmrf.org
 go.themodernsale.com
 go.themxgroup.com
+go.thenextup.com
 go.theoceancleanup.com
 go.theofficegroup.com
 go.theopenexperiences.com
@@ -31993,6 +32007,7 @@ go.xello.world
 go.xemuae.com
 go.xenial.com
 go.xentegra.com
+go.x-hoppers.com
 go.xilica.com
 go.xlfleet.com
 go.x-locations.com
@@ -32121,6 +32136,7 @@ go.ziplocal.com
 go.zipwater.com
 go.ziri.com
 go.zirkon.co.uk
+go.z-kyosai.com
 go.zmp.co.jp
 go.znd.com
 go.zodiac.com
@@ -36232,6 +36248,7 @@ info.tickstart.com.au
 info.tilelab.jp
 info.titlenowfl.com
 info.t-marketing.jp
+info.tm.com.my
 info.tmssolutions.com
 info.tnoys.org
 info.tnp-p.com
@@ -36522,6 +36539,7 @@ info.woodfortrees.net
 info.wool4school.com
 info.wool.com
 info.woolmark.com
+info.woolmarkprize.com
 info.workbright.com
 info.workhappiness.co.jp
 info.workplacedynamics.com
@@ -36533,6 +36551,7 @@ info.worldsensing.com
 info.world-works.co.jp
 info.wowlogistics.com
 info.wraconferences.com
+info.wsb-benelux.eu
 info.wsi.agrex.co.jp
 info.wsjmediakit.com
 info.wwmsi.com
@@ -36580,6 +36599,7 @@ info.zenhoren.jp
 info.zenreach.com
 info.zepl.com
 info.zero-navi.jp
+info.zeronorth.com
 info.zircodata.com.au
 info.znu.ai
 info.zolatone.com
@@ -38973,6 +38993,7 @@ marketing.coffreo.com
 marketing.collectivemedical.com
 marketing.collercapital.com
 marketing.collinssales.com
+marketing.colorbond.vn
 marketing.communityhospitalcorp.com
 marketing.competella.com
 marketing.connect-kelltontech.com
@@ -39106,6 +39127,7 @@ marketing.hillrobinson.com
 marketing.hitachi-ies.co.jp
 marketing.hoffmaster.com
 marketing.holcimpartner.net
+marketing.holostik.com
 marketing.homag.com
 marketing.hotwireglobal.com
 marketing.hotwirepr.com
@@ -39120,6 +39142,7 @@ marketing.iagcargo.com
 marketing.iamsold.co.uk
 marketing.iba.aero
 marketing.icat.com
+marketing.iddink.cat
 marketing.idealhomeloans.com
 marketing.ideastatica.com
 marketing.ihrdc.com
@@ -40015,6 +40038,7 @@ mautic.institutodeteologialogos.net.br
 mautic.inventivos.co
 mautic.isha-tarot-reading.com
 mautic.jagodo.vn
+mautic.keepshooting.com
 mautic.luxmarketing.agency
 mautic.moneytothemasses.com
 mautic.net
@@ -49407,6 +49431,7 @@ plausible.bernheisel.com
 plausible.billfox.co
 plausible.bitloader.net
 plausible.bostad.shop
+plausible.bots.gg
 plausible.brandonly.me
 plausible.buildfirst.tech
 plausible.callingly.com

@@ -18863,6 +18863,7 @@ ocsp.pki.goog
 ocsp.rootca1.amazontrust.com
 ocsp.sca1b.amazontrust.com
 ocsp.sectigo.com
+ocsps.ssl.com
 ocsp.trust-provider.com
 ocsp.usertrust.com
 ocsp.verisign.com
