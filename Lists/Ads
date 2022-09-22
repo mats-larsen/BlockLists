@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 17,738
-# Updated: 9/21/2022  11:37 (11:37 AM CST)
+# Domains: 17,739
+# Updated: 9/21/2022  20:47 (8:47 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -6755,6 +6755,7 @@ bannerx.onlyadd.com
 bannieres.wdmedia.net
 barcindia.in
 baren.hejkaheel.xyz
+barf-ads.us
 barkernyc.com
 barnhartusa.com
 basebanner.com

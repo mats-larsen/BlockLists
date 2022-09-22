@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 20,296
-# Updated: 9/21/2022  11:37 (11:37 AM CST)
+# Domains: 20,298
+# Updated: 9/21/2022  20:47 (8:47 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -4246,6 +4246,7 @@ containershipsltd.com
 containerspaza.com
 containerstport.com
 contattibdsm.com
+contendon.com
 contendonog.com
 continentalcouriers.com
 continentaldocs.com
@@ -8234,6 +8235,7 @@ graspmeet.net
 grasslandpuppies.com
 grasslia.com
 grasvip.com
+gratefulgreet.com
 gratenfully.com
 gratifieddoing.com
 gratisrobux.co

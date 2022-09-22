@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 73,141
-# Updated: 9/21/2022  11:37 (11:37 AM CST)
+# Domains: 73,164
+# Updated: 9/21/2022  20:47 (8:47 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -1729,6 +1729,7 @@ aa.avvo.com
 aa.bd.com
 a.abercrombiekent.com
 aac.aand.co.jp
+aac-conn.azbil.com
 a.accuweather.com
 a.advameg.com
 aadyainsights.in
@@ -13784,6 +13785,7 @@ browser.events.data.trafficmanager.net
 browserhawk.com
 browser-info.api.thehotline.us
 browser-intake-datadoghq.com
+browser-intake-datadoghq.eu
 browser.pipe.aria.microsoft.com
 brpdealermarketing.azureedge.net
 brpx.com
@@ -14048,7 +14050,9 @@ campaign.boen.com
 campaign.eagleeyes.com.tw
 campaign.easterlyfunds.com
 campaign.ecalive.co.uk
+campaign.fractal.ai
 campaign.gobrightdrop.com
+campaign.grantthornton.in
 campaign.idemia.com
 campaign.ivoclar.com
 campaign.ivoclarvivadent.com
@@ -14319,7 +14323,10 @@ cdn1-tags.pornerbros.com
 cdn1.untalent.org
 cdn2.20mn.fr
 cdn2.stamped.io
+cdn.access.medicaidannuity.com
 cdn-api.arcpublishing.com
+cdnbcwww.lee.com
+cdnbcwww.wrangler.com
 cdn.blueconic.net
 cdn.brcdn.com
 cdn.bronto.com
@@ -14356,6 +14363,7 @@ cdn.refersion.com
 cdn-ru.bitrix24.ru
 cdnscanddicom-lhzufrjflvifva.stackpathdns.com
 cdn.silvercloudinc.com
+cdn.simility.com
 cdn-sitegainer.com
 cdn.sites.disney.com
 cdn-sp-s3.air.tv
@@ -15615,6 +15623,7 @@ contact.tainavi.com
 contact.tainavi-next.com
 contact.tainavi-pp.com
 contact.ucdenver.edu
+contact.uniguest.com
 contactus.solixinc.com
 contact.vcube.com
 contact.visicon.com
@@ -15670,6 +15679,7 @@ content.brockbuilt.com
 content.btobasic.nl
 content.building.ca
 content.burgundyasset.com
+content.buronexus.com
 content.businessinsurance.com
 content.business.uscellular.com
 content.canadianarchitect.com
@@ -15711,6 +15721,7 @@ content.exclaimer.io
 content.exterionmedia.com
 content.facetfiltration.com
 content.factrics-marketing.com
+content.fcgroningen.nl
 content.filemaker.com
 content.filmtvcharity.org.uk
 content.filtrationgroupiaq.com
@@ -15766,6 +15777,7 @@ content.loft.co.uk
 content.logiball.com
 content.lowrysolutions.com
 content.loyalistcollege.com
+content.lp.nn.nl
 content.marks.com
 contentmaximiser.com
 content.mcfadyen.com
@@ -15887,6 +15899,7 @@ conteudo.hiplatform.com
 conteudo.yourviews.com.br
 context.bestbuy.com
 contify.com
+continuity.finncont.com
 contovista.com
 contract.colombinigroup.com
 controlswim.com
@@ -37599,6 +37612,7 @@ kyujin2.hyn.co.jp
 kyvosinsights.com
 kz3trk.com
 kzjs4rtk.com
+l013.parade.com
 l026e7vji8.execute-api.us-east-1.amazonaws.com
 l163.lorespresso.com
 l1nk.com
@@ -39603,6 +39617,7 @@ ma.switch-m.com
 mat.alugha.com
 matchmyip.com
 ma.tech.e-dove.jp
+ma.techvan.co.jp
 materiais.interplayers.com.br
 materialexample.com
 material.hirolaboratory.com
@@ -42320,6 +42335,7 @@ opr-activity.vskit.tv
 ops7dl.com
 opsanalytics.ch
 ops.coop.org
+opsinternalcomms.aboutamazon.com
 opsmatic.com
 opsone-analytics.ch
 opsone.ch
@@ -65641,6 +65657,7 @@ tortoise.transistor.fm
 tortoise.trysmartplan.com
 toryburchmail.com
 toshiba2.semicon-storage.com
+to.shika-labo.com
 totalcount.com.au
 totalexpert.com
 totemicmail.co.uk
@@ -66867,6 +66884,7 @@ tuna.purplespider.com
 tune.com
 tunityanalytics.com
 tuortrk.com
+tup.teamup.jp
 turbolion.io
 turbo-tax.us
 turkey.16by9.net
@@ -68416,6 +68434,7 @@ wvw.stewartandarnold.com
 wvw.swisseducation.com
 wvw.system-scale.com
 wvw.taqauto.com
+wvw.teachtoone.org
 wvw.teamclinton.ca
 wvw.textlocal.com
 wvw.tportho.com
@@ -68451,8 +68470,10 @@ ww2.grimsey.com.au
 ww2.lakoniacap.com
 ww2.myemergencydr.com
 ww2.nbmmetals.com
+ww2.netsfere.com
 ww2.rxrs.com
 ww2.sentric.net
+ww2.servicinghome.com
 ww2.stearnsbrakes.com
 ww2.superglam.com
 ww2.techweek.com
@@ -68461,12 +68482,14 @@ ww2.unlockyourff.com.au
 ww2.virtusapolaris.com
 ww2.whirks.com
 ww3.marketstar.com
+ww3.philagear.com
 ww3.vonage.com.my
 ww5.vonage.com.my
 ww5.vonage.com.ph
 ww8.kohls.com
 ww9.kohls.com
 wwp.bangthetable.com
+wwp.walkingwithpurpose.com
 wwt.cinemassive.com
 wwu.jjill.com
 wwv.capturepoint.ca
