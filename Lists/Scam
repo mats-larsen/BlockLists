@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 20,298
-# Updated: 9/21/2022  20:47 (8:47 PM CST)
+# Domains: 20,296
+# Updated: 9/21/2022  20:59 (8:59 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -103,7 +103,6 @@
 209primersammoshop.com
 20pills.com
 21estore.com
-21homepoodleforsale.com
 21seasons.com
 22fighters.com
 245livetrade.com
@@ -205,7 +204,6 @@
 420medicalstore.com
 420medishop.com
 420medsbank.com
-420moonruntz.com
 420-onlineshop.com
 420premiumstore.com
 420skunkuk.com

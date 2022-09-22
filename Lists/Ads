@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 17,739
-# Updated: 9/21/2022  20:47 (8:47 PM CST)
+# Domains: 17,737
+# Updated: 9/21/2022  20:59 (8:59 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -8102,7 +8102,6 @@ cpmktg.com
 cpmleader.com
 cpm.media
 cpmstar.com
-cpndz.space
 cpro.baidustatic.com
 cpstatic.ch
 cpwub.com
@@ -16395,7 +16394,6 @@ ua5.hit.stat24.com
 uaa.ug
 uaband.pro
 uadexchange.com
-uads.id
 uaeprt2nte.com
 uaifacil.com.br
 ubadvert.com
