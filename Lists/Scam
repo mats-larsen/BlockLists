@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 20,296
-# Updated: 9/21/2022  20:59 (8:59 PM CST)
+# Domains: 20,297
+# Updated: 9/21/2022  22:42 (10:42 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -7644,6 +7644,7 @@ gerryvenomshop.com
 gestionmotovarioado.com
 gesundergoldenretriever.com
 get4k.tv
+getaheade.com
 getavplusnow.com
 getbenttees.com
 getbobux.com
