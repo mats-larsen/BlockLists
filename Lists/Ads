@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 17,738
-# Updated: 9/22/2022  19:45 (7:45 PM CST)
+# Domains: 17,739
+# Updated: 9/22/2022  23:04 (11:04 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -13857,6 +13857,7 @@ pushnative.com
 push.neko-san.fr
 push.net
 push.netmarble.com
+pushnetwork.com
 pushnews.eu
 pushnews.org
 pushninja.com

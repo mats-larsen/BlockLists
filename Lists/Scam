@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 20,315
-# Updated: 9/22/2022  19:45 (7:45 PM CST)
+# Domains: 20,316
+# Updated: 9/22/2022  23:04 (11:04 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -1074,6 +1074,7 @@ amigoscoloridos.pt
 amityfirearmstore.com
 amitymedic.org
 amiytech.com
+ammoandgunshop.com
 ammocitystore.com
 ammodepotstore.co
 ammodynamics.com
