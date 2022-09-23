@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 17,739
-# Updated: 9/22/2022  23:04 (11:04 PM CST)
+# Domains: 17,741
+# Updated: 9/23/2022  01:28 (1:28 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -6555,6 +6555,7 @@ aytlpb.com
 azadify.com
 azadv.co.il
 azameo.com
+a.zdg.de
 azfitn.com
 a.zillastream.com
 azskk.com
@@ -16270,6 +16271,7 @@ troodonmedia.com
 trowmac.com
 trpkc.com
 truaudience.com
+trueberry.in
 truendo.com
 trueoptin.com
 trueowladvertising.com
