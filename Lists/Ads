@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 17,759
-# Updated: 9/23/2022  12:26 (12:26 PM CST)
+# Domains: 17,760
+# Updated: 9/23/2022  15:12 (3:12 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -12674,6 +12674,7 @@ oath.com
 oathfrance.com
 oathholdingsinc.com
 oathmidiadigitalltda.com
+oathtechnologiesireland.com
 oathuklimited.com
 oathventures.com
 obahet.com
