@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 73,233
-# Updated: 9/22/2022  10:49 (10:49 AM CST)
+# Domains: 73,239
+# Updated: 9/22/2022  19:45 (7:45 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -28076,6 +28076,7 @@ go.ozaki-swimming.com
 go.paacf.org
 go.pabcogypsum.com
 go.pacapts.com
+go.pace3058.com.au
 go.pacedg.com.au
 go.pace-equity.com
 go.pacesetterclaims.com
@@ -32981,6 +32982,7 @@ iam.gcdn.co
 iam.investecassetmanagement.com
 iar.sbdinc.com
 i.artavenue.co.jp
+i.arthritiswa.org.au
 i.artrya.com
 iaudienc.com
 i.baptistcare.com.au
@@ -37825,6 +37827,7 @@ learn.govinvest.com
 learn.hcss.com
 learn.hedera.com
 learn.hederahashgraph.com
+learn.heska.com
 learn.hexagongeospatial.com
 learn.hydroapps.com
 learning.augmentt.com
@@ -50685,6 +50688,7 @@ rekorsystems.com
 rel8ed.to
 relational-analytics.com
 relativeinsight.com
+relax.americansitefurnishings.com
 relax.biofit360.com
 relax.greenbits.com
 relaxthepain.com
@@ -67054,6 +67058,7 @@ uif.microsoft.com
 ukaf23trk.com
 uk.atlantic-technologies.com
 uk.bearings.saint-gobain.com
+uk.exponential-e.com
 uk.gn.com
 uki.arjo.com
 uk.info.devoteam.com
@@ -67379,6 +67384,7 @@ varstadt.com
 vas.vintage-ip.com
 vbtrax.com
 vc.bhhvh.com
+vcn.vcnagano.jp
 v-collector.dp.aws.charter.com
 v-count.com
 vcu8trk.com
