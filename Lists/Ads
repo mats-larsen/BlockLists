@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 17,760
-# Updated: 9/23/2022  15:12 (3:12 PM CST)
+# Domains: 17,762
+# Updated: 9/26/2022  11:42 (11:42 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
@@ -4163,6 +4163,7 @@ ads.madcheddar.net
 ads.mad-daily.com
 ads.madridiario.es
 ads.magnesianews.gr
+adsmagnetic.com
 adsmain.com
 ads.makemoneylivelife.com
 ads.makfudbal.mk
@@ -14343,6 +14344,7 @@ revive-adserver.world-diffusion.com
 reviveadservices.com
 reviveads.faktor.bg
 revive.agenda.ge
+revive.atime.live
 revive.bdnews24.com
 revive.digitaldoowop.com
 revive.dubcnm.com

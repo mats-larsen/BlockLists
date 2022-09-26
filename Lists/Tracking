@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 73,271
-# Updated: 9/23/2022  15:12 (3:12 PM CST)
+# Domains: 73,278
+# Updated: 9/26/2022  11:42 (11:42 AM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -2572,6 +2572,7 @@ alpharank.io
 alphastudio.finance
 alpha.vminnovations.com
 alpineactor.com
+alpinebikesmail.com
 alpixtrack.com
 al-smetrics.vizio.com
 altabold1.com
@@ -33160,8 +33161,10 @@ iedc.fitbit.com
 ie.fastbridge.org
 iesnare.com
 iesnare.co.uk
+ifconfig.ca
 ifconfig.cc
 ifconfig.co
+ifconfig.in
 ifconfig.info
 ifconfig-la.sprious.com
 ifconfig.me
@@ -41489,6 +41492,7 @@ n2event.com
 n3idnk.com
 n3n.io
 n483.spglobal.com
+n582.cablinginstall.com
 n668.newstribune.com
 n730.timesunion.com
 n7dmmtrk.com
@@ -45910,6 +45914,7 @@ piwik.gohelpy.eu
 piwik.goingelsewhere.de
 piwik.goldeneggcheck.com
 piwik.goldrauschen-blog.de
+piwik.goldseiten.de
 piwik.goldsteiner-schlippcher.de
 piwik.goldundglas.de
 piwik.golf-bondorf.de
@@ -49521,6 +49526,7 @@ plausible.dev.sketch.com
 plausible.dingran.me
 plausible.doberman.co
 plausible.doctave.com
+plausible.dragonfru.it
 plausible.easytrak.io
 plausible.edu-focus.org
 plausible.ejs.dev
@@ -53113,6 +53119,7 @@ singapore.udtrucks.com
 singroot.com
 singular.net
 sinmo.chasecenter.com
+s.innovid.com
 sintelligence.marykay.com
 sintelligence.marykayintouch.com
 sinter-collect.com
