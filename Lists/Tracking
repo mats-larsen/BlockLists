@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 73,278
-# Updated: 9/26/2022  11:42 (11:42 AM CST)
+# Domains: 73,291
+# Updated: 9/26/2022  21:50 (9:50 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
@@ -5904,6 +5904,7 @@ analytics.filtr.at
 analytics.finam.ru
 analytics.financialsymmetry.com
 analytics.finanzen.at
+analytics.finanzen.ch
 analytics.finanzkasse.at
 analytics.finanzplattform.com
 analytics.finanz-tools.de
@@ -10111,6 +10112,7 @@ analytics.seitter.it
 analytics.seizerstyle.com
 analytics.selbststaendig-als-freiberufler.de
 analytics.selea.se
+analytics.selectrehab.com
 analytics.selfdesign.org
 analytics.selfhood-studios.co.uk
 analytics.selfhosting.rocks
@@ -10955,6 +10957,7 @@ analytics.thechewfamily.net
 analytics.theclubnetgroup.com
 analytics.thecomet.net
 analytics.thecomparestudy.com
+analytics.theconjugator.com
 analytics.thecorehosting.net
 analytics.thedataagency.com
 analytics.thedev.sk
@@ -17762,6 +17765,7 @@ e220.dailyfreeman.com
 e2.cub.com.au
 e2-dresslink.com
 e2.hazeldenbettyford.org
+e2.usaa.com
 e377.thestar.com
 e3.johnsoncontrols.com
 e468.fiercetelecom.com
@@ -18127,6 +18131,7 @@ email1.skybet.com
 email2.byrdie.com
 email2.health.com
 email2.people.com
+email2.verywellfit.com
 email-allstate.com
 emailanalytics.com
 emailbenefithub.com
@@ -37610,6 +37615,7 @@ krill.swiss-uke.ch
 krishetrk.com
 kr.mitsubishi-automation.co.kr
 krogerprecisionmarketing.com
+kr-webtracking.app.tgos.de
 krxd.net
 ks42zt.spec.fm
 ksgtrk.com
@@ -37975,6 +37981,7 @@ life.gracebank.jp
 lifeinnovation.yokogawa.com
 lifeinsurance.atlantalife.com
 life.io
+life-on-mars-sunny.byrdseed.tv
 lifescience.getinge.com
 lifesight.io
 lifestance-matomo.digitallifestance.com
@@ -39674,6 +39681,7 @@ matomo.17app.dev
 matomo.1984.is
 matomo1.bpb.de
 matomo2.bpb.de
+matomo31.mpsa.com
 matomo3.org
 matomo.a1.by
 matomo.academicinfluence.com
@@ -41411,6 +41419,7 @@ myip.israel.net
 myip.kz
 myip.la
 myip.ma
+myip.manager.network
 myip.ms
 myip.mudfish.net
 myip.mx
@@ -42397,6 +42406,7 @@ optassets.ontraport.com
 opticalanalytics.io
 optilead.co.uk
 optimahub.com
+optimalexsolutions.com
 optimallimit.com
 optimix.cn
 optimizeanalytics.com
@@ -61301,6 +61311,7 @@ stats.myriadifs.com
 stats.myrtalycongress.gr
 stats.mysamples.pl
 stats.mysattv.com.au
+stats.myserverhome.de
 stats.my-serv.eu
 stats.myservice.in
 stats.mysimplejewellery.com
@@ -65708,6 +65719,7 @@ topmixstar.com
 topofferlink.com
 topografia.cpetecnologia.com.br
 topspin.npo.nl
+topwebsitevisitortracking.com
 torcai.com
 torch.business.com
 torimochi.line-apps.com
@@ -67541,6 +67553,7 @@ visit.asb.co.nz
 visit.bbfbonnierbusiness.fi
 visit.bluewatertech.com
 visit.compudata.com
+visitcount.esri.com
 visit.dunnsolutions.com
 visit.ecapital.com
 visit.fansshare.com
