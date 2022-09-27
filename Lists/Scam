@@ -1,8 +1,8 @@
 #
 #    File: Scam
 #    Info: Fake freight, gift cards, products, support, pet sales, news, etc  *Not directly malware
-# Domains: 20,451
-# Updated: 9/26/2022  21:50 (9:50 PM CST)
+# Domains: 20,452
+# Updated: 9/26/2022  21:59 (9:59 PM CST)
 # Creator: ShadowWhisperer (Sean H.)
 #
 #    Curl: curl -s https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
@@ -6099,6 +6099,7 @@ enslineepuppies.co.za
 enstlogistics.com
 entalmechan.com
 enter-shield.com
+enthusiade.com
 enthusiasmboil.com
 enthusiasmrise.com
 entrancingpomskyfamily.com
