@@ -35,5 +35,5 @@ export function getBlockList(list) {
     encoding: "utf8"
   });
   
-  return file;
+  return file.split(`\n`);
 }
