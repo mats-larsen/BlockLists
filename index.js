@@ -48,7 +48,7 @@ var BlockList;
 })(BlockList || (BlockList = {}));
 
 async function getBlockList(list) {
-  const correctList = Object.entries(BlockList).some(([key, value]) => {
+  const correctList = Object.entries(BlockList).some(([, value]) => {
     return (typeof list === "string") ? value === list : value === BlockList[list];
   });
 
