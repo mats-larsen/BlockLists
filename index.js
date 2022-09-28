@@ -1,75 +1,56 @@
-import * as fs from "fs/promises";
-import path from "path";
+const fs = require('fs/promises');
+const path = require('path');
 
-/**
- * Enum for block lists.
- * @readonly
- * @enum {number}
- */
-const BlockList = {
-  /** @member {number}*/
-  /** Advertisements, Banners, Widgets & Push Notifications. */
-  ADS: 0,
-  
-  /** @member {number}*/
-  /** Porn / 18+ Content. */
-  ADULT: 1,
-  
-  /** @member {number}*/
-  /** Fonts, Surveys, Domains not required for software to function. */
-  BLOAT: 2,
-  
-  /** @member {number}*/
-  /** Bitcoin, Ethereum, Mining, etc. (Not malware, but could be used by it). */
-  CRYPTOCURRENCY: 3,
-  
-  /** @member {number}*/
-  /** Dating Sites. */
-  DATING: 4,
-  
-  /** @member {number}*/
-  /** Free/Cheap Hosting, Free Blogs. */
-  FREE: 5,
-  
-  /** @member {number}*/
-  /** Personally Untrusted Antivirus, Browser Extensions, Search Engines, etc. */
-  JUNK: 6,
-  
-  /** @member {number}*/
-  /** Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites. */
-  MALWARE: 7,
-  
-  /** @member {number}*/
-  /** Marketing, Ebay Listing Tools, etc. */
-  MARKETING: 8,
-  
-  /** @member {number}*/
-  /** Domains used for remote sessions. */
-  REMOTE: 9,
-  
-  /** @member {number}*/
-  /** Fake freight, gift cards, products, support, pet sales, firearms, news, etc. */
-  SCAM: 10,
-  
-  /** @member {number}*/
-  /** Gore, Gross, and Torture sites. */
-  SHOCK: 11,
-  
-  /** @member {number}*/
-  /** URL Shorteners. Can be used to mask malicious domains. */
-  URLSHORTENER: 12,
-  
-  /** @member {number}*/
-  /** Advertisements, Banners, Widgets & Push Notifications. */
-  WILD_ADS: 13
-};
+var BlockList;
+(function (BlockList) {
+    /** @member {number}*/
+    /** Advertisements, Banners, Widgets & Push Notifications. */
+    BlockList[BlockList["ADS"] = 0] = "ADS";
+    /** @member {number}*/
+    /** Porn / 18+ Content. */
+    BlockList[BlockList["ADULT"] = 1] = "ADULT";
+    /** @member {number}*/
+    /** Fonts, Surveys, Domains not required for software to function. */
+    BlockList[BlockList["BLOAT"] = 2] = "BLOAT";
+    /** @member {number}*/
+    /** Bitcoin, Ethereum, Mining, etc. (Not malware, but could be used by it). */
+    BlockList[BlockList["CRYPTOCURRENCY"] = 3] = "CRYPTOCURRENCY";
+    /** @member {number}*/
+    /** Dating Sites. */
+    BlockList[BlockList["DATING"] = 4] = "DATING";
+    /** @member {number}*/
+    /** Free/Cheap Hosting, Free Blogs. */
+    BlockList[BlockList["FREE"] = 5] = "FREE";
+    /** @member {number}*/
+    /** Personally Untrusted Antivirus, Browser Extensions, Search Engines, etc. */
+    BlockList[BlockList["JUNK"] = 6] = "JUNK";
+    /** @member {number}*/
+    /** Malicious Sites, PUPs, Malware, Browser Hijackers, Phishing Sites. */
+    BlockList[BlockList["MALWARE"] = 7] = "MALWARE";
+    /** @member {number}*/
+    /** Marketing, Ebay Listing Tools, etc. */
+    BlockList[BlockList["MARKETING"] = 8] = "MARKETING";
+    /** @member {number}*/
+    /** Domains used for remote sessions. */
+    BlockList[BlockList["REMOTE"] = 9] = "REMOTE";
+    /** @member {number}*/
+    /** Fake freight, gift cards, products, support, pet sales, firearms, news, etc. */
+    BlockList[BlockList["SCAM"] = 10] = "SCAM";
+    /** @member {number}*/
+    /** Gore, Gross, and Torture sites. */
+    BlockList[BlockList["SHOCK"] = 11] = "SHOCK";
+    /** @member {number}*/
+    /** URL Shorteners. Can be used to mask malicious domains. */
+    BlockList[BlockList["URLSHORTENER"] = 12] = "URLSHORTENER";
+    /** @member {number}*/
+    /** Advertisements, Banners, Widgets & Push Notifications. */
+    BlockList[BlockList["WILD_ADS"] = 13] = "WILD_ADS";
+})(BlockList || (BlockList = {}));
 
-export function getBlockList(list) {
-  console.log(list);
-
-  const correctList = Object.entries(BlockList).some(
-    ([body, once]) => body === list
-  );
+async function getBlockList(list) {
+  const correctList = Object.entries(BlockList).some(([key, value]) => {
+    return (typeof list === "string") ? value === list : value === BlockList[list];
+  });
 
   if (!correctList) {
     throw new Error(
@@ -77,9 +58,18 @@ export function getBlockList(list) {
     );
   }
 
-  const file = fs.readfilesync(path.join(__dirname, "RAW", list), {
+  const filePath = path.join(__dirname, "RAW", (typeof list === "string") ? list : BlockList[list]);
+  
+  const file = await fs.readFile(filePath, {
     encoding: "utf8"
+  }).catch(() => {
+    throw new Error(
+      `Unable to read file "${filePath}", did you spell the list name correctly?`
+    );
   });
   
-  return file.split(`\n`);
+  return file.split("\n");
 }
+
+
+module.exports = { getBlockList, BlockList };
