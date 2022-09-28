@@ -1,6 +1,9 @@
+const {describe, it} = require('mocha');
 const { getBlockList, BlockList } = require('../index.js');
 
-var assert = require('assert');
+const assert = require('assert');
+
+
 describe('getBlockList', function () {
   it('should get ads list', async function () {
     const list = await getBlockList(BlockList.ADS);
