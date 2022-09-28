@@ -31,7 +31,7 @@ export function getBlockList(list) {
     );
   }
 
-  const file = fs.readfilesync(path.join(__dirname, list), {
+  const file = fs.readfilesync(path.join(__dirname, "RAW", list), {
     encoding: "utf8"
   });
   
