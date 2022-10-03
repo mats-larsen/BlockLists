@@ -61,4 +61,4 @@ export declare enum BlockList {
   WILD_ADS = 13
 }
 
-export declare function getBlockList(list: BlockList | keyof typeof BlockList): string[];
+export declare function getBlockList(list: BlockList | keyof typeof BlockList): Promise<string[]>
