@@ -58,7 +58,8 @@ async function getBlockList(list) {
     );
   }
 
-  const filePath = path.join(__dirname, "RAW", (typeof list === "string") ? list : BlockList[list]);
+  const listName = (typeof list === "string") ? list : BlockList[list];
+  const filePath = path.join(__dirname, "RAW", listName.charAt(0) + listName.slice(1).toLowerCase());
   
   const file = await fs.readFile(filePath, {
     encoding: "utf8"
